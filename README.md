@@ -21,3 +21,4 @@ https://manipulation.csail.mit.edu/
 KL正則化付近のRL
 ->論文を読み解く
 
+2023 04/25 TD法の収束、KL正則化付近の論文を読んだ
