@@ -49,4 +49,6 @@ KL正則化付近のRL
 
 2023 05/16 SARSAの実装途中
 
-2023 05/17 Actor Criticの実装中
+2023 05/17 Actor Criticの実装
+
+2023 05/18 VAEの実装途中
