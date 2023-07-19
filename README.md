@@ -88,3 +88,5 @@ KL正則化付近のRL
 2023 07/11 凸関数
 
 2023 07/11 non-markovian reward 
+
+2023 07/11 VI,PIの復習
