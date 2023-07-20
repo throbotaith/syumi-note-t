@@ -89,4 +89,4 @@ KL正則化付近のRL
 
 2023 07/11 non-markovian reward 
 
-2023 07/1９ VI,PIの復習
+2023 07/19,20 VI,PIの復習
