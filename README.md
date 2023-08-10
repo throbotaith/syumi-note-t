@@ -107,5 +107,5 @@ KL正則化付近のRL
 
 2023 08/07 凸共役と正則化MDP
 
-2023 0808 unregulerized MDP
+2023 0808 09 unregulerized MDP
 
