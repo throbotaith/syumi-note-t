@@ -117,5 +117,5 @@ KL正則化付近のRL
 
 2023 0829 凸共役
 
-2023 0830 31 3 正則化MDP　Regularized Modified Policy Iteration
+2023 0830 31 3  4正則化MDP　実装ムズイ...Regularized Modified Policy Iteration
 
