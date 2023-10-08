@@ -119,5 +119,5 @@ KL正則化付近のRL
 
 2023 0830 31 3  4正則化MDP　実装ムズイ...Regularized Modified Policy Iteration
 
-2023 09/27 1003  1006,07Soft Q-Leaning 
+2023 09/27 1003  1006,07 08Soft Q-Leaning 
 
