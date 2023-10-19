@@ -122,3 +122,5 @@ KL正則化付近のRL
 2023 09/27 1003  1006,07 08Soft Q-Leaning 
 
 2023 10/11,10/13,14 15 16 青本実装復習
+
+2023 10/19 https://tadashik.github.io/rltheory-jp/lecture-notes/planning-in-mdps/lec3/
