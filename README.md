@@ -124,3 +124,5 @@ KL正則化付近のRL
 2023 10/11,10/13,14 15 16 青本実装復習
 
 2023 10/19 22  26 30 11/02　05 https://tadashik.github.io/rltheory-jp/lecture-notes/planning-in-mdps/lec3/
+
+2023 1107 ローカルプランニング
