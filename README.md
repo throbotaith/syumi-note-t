@@ -129,4 +129,5 @@ KL正則化付近のRL
 
 2023 11/12 13 DA-VIの証明
 
-2023 11/15 18 https://arxiv.org/abs/2005.00527
+2023 11/15 18 https://arxiv.org/abs/2005.00527 
+2023 11/20 Efficient Multi-Task and Transfer Reinforcement Learning with
