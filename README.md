@@ -133,3 +133,6 @@ KL正則化付近のRL
 2023 11/20 Efficient Multi-Task and Transfer Reinforcement Learning with
 
 2023 11/21  22 DA-MPIの証明
+
+2023 11/24 関数近似
+
