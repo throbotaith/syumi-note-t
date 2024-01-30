@@ -138,7 +138,7 @@ KL正則化付近のRL
 久しぶりです
 2024 01/10　確率論,bandit1章
 
-2024 01/29 多腕バンディット問題: 定式化と応用見た．明日以降実装する（https://www.youtube.com/watch?v=6HbTLQYkx08）
+2024 01/29  01/30多腕バンディット問題: 定式化と応用見た．明日以降実装する（https://www.youtube.com/watch?v=6HbTLQYkx08）
 
 
 
